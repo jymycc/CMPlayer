@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="video_width_add">290dp</dimen>
+
+    <dimen name="video_height_add">190dp</dimen>
+</resources>

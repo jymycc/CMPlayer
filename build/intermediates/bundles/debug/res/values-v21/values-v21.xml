@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="video_height_add">190dp</dimen>
+    <dimen name="video_width_add">290dp</dimen>
+</resources>
